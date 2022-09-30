@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haider</h1>
 <h3 align="center">On road to become a full stack developer</h3>
-<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Coding" width="500">
-<p align="left"> <img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" alt="haider056" /> </p>
+<img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coding" width="500" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haider056&label=Profile%20views&color=0e75b6&style=flat" alt="haider056" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haider056" alt="haider056" /></a> </p>
 
@@ -26,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haider056&show_icons=true&locale=en" alt="haider056" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haider056&" alt="haider056" /></p>
+
