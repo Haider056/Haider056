@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haider</h1>
 <h3 align="center">On road to become a full stack developer</h3>
-<img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coding" width="500" >
+<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Coding" width="500" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider056&label=Profile%20views&color=0e75b6&style=flat" alt="haider056" /> </p>
 
