@@ -5,7 +5,7 @@
 
 - 📫 I’m currently Studying at **Institute of space and technology**
 
-- 🔭 I’m currently working on **My portfolio websie**
+- 🔭 I’m currently working on **Frontend Skills**
 
 - 🌱 I’m currently learning **Angular, React, VUE.JS, Linux**
 
